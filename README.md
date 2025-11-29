@@ -135,6 +135,3 @@ Para fazer deploy:
 2. Rode `npm run build`
 3. Rode `npm start` (produção)
 
-## 📄 Licença
-
-MIT
